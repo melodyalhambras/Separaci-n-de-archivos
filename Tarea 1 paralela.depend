@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543598010 source:/home/melody/Escritorio/Tarea 1 paralela/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
